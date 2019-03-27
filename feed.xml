@@ -6,7 +6,7 @@
         <language>en</language>
         <copyright>All rights reserved</copyright>
         <description>Enter the multiverse! We play wierd RPG's (Role Playing Games) every week for your ears. Host Anthony Silvio and guests explore the multiverse... and also a bag of potato chips.</description>
-        <itunes:subtitle>Enter the multiverse! We play wierd RPG's (Role P…</itunes:subtitle>
+        <itunes:subtitle>Enter the multiverse! We play wierd RPG's</itunes:subtitle>
         <itunes:owner>
           <itunes:name>The Multiverse and a Bag Of Potato Chips</itunes:name>
           <itunes:email>multiversechippod@gmail.com</itunes:email>
@@ -20,8 +20,6 @@
           <link>http://moviepoopie.com</link>
         </image>
         <itunes:category text="Games &amp; Hobbies"/>
-        
-
 <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/594885633</guid>
       <title>Snack Sized Multiverse [#4]</title>
